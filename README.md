@@ -30,4 +30,8 @@ functionalitires, which other wise we should have to write from scratch by our o
  -> Here we are not reaching out to the server to request a new piece of HTML data, every time we 
     navigate to a different URL
  -> This allows us to create an application which is fast and reactive
- 
+
+->> Component
+
+ -> A component is a piece of user interface
+ -> Every Angular application has at least one component 
